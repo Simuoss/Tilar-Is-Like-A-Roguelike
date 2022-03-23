@@ -1,6 +1,6 @@
 # Tilar-Is-Like-A-Roguelike
 
-[![License](https://img.shields.io/github/license/Fallen-Breath/MCDReforged.svg)](https://github.com/Simuoss/Tilar-Is-Like-A-Roguelike/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/Simuoss/Tilar-Is-Like-A-Roguelike.svg)](https://github.com/Simuoss/Tilar-Is-Like-A-Roguelike/blob/main/LICENSE)
 
 Thank you for reading this page!  
 
