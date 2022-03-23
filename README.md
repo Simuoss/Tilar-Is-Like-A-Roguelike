@@ -1,6 +1,6 @@
 # Tilar-Is-Like-A-Roguelike
 
-[![License](https://img.shields.io/github/license/Fallen-Breath/MCDReforged.svg)](https://github.com/Fallen-Breath/MCDReforged/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/Fallen-Breath/MCDReforged.svg)](https://github.com/Simuoss/Tilar-Is-Like-A-Roguelike/blob/main/LICENSE)
 
 Thank you for reading this page!  
 As you can see,we're going to creat a Roguelike game from scratch[^.] in Java.
